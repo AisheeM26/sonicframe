@@ -4,12 +4,12 @@
  */
 
 import assert from 'node:assert/strict';
-import { store } from '../src/app/state/store.js';
-import { PeakDetector } from '../src/modules/telemetry/PeakDetector.js';
-import { MODAL_PROFILES } from '../src/modules/audio/synths/ModalImpactSynth.js';
-import { WavExporter } from '../src/modules/audio/Exporter.js';
-import { CueSheetParser } from '../src/modules/orchestrator/CueSheetParser.js';
-import { CopilotAgent } from '../src/modules/orchestrator/CopilotAgent.js';
+import { store } from '../src/app/state/store.ts';
+import { PeakDetector } from '../src/modules/telemetry/PeakDetector.ts';
+import { MODAL_PROFILES } from '../src/modules/audio/synths/ModalImpactSynth.ts';
+import { WavExporter } from '../src/modules/audio/Exporter.ts';
+import { CueSheetParser } from '../src/modules/orchestrator/CueSheetParser.ts';
+import { CopilotAgent } from '../src/modules/orchestrator/CopilotAgent.ts';
 
 console.log('======================================================');
 console.log('   SONICFRAME MODULAR ECC ARCHITECTURE VERIFICATION   ');
