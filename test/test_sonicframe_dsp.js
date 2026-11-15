@@ -10,7 +10,7 @@
  * 7. Mock WebAudio Graph instantiation and Offline rendering pipeline
  */
 
-import SonicFrameDSP from './sonicframe-dsp.js';
+import SonicFrameDSP from '../sonicframe-dsp.js';
 
 let passedTests = 0;
 let totalTests = 0;

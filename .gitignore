@@ -3,15 +3,20 @@ node_modules/
 dist/
 *.tsbuildinfo
 
+# Knowledge Graph & Codebase Audits
+graphify-out/
+
 # Environment variables
 .env
 .env.local
 .env.*.local
 
-# Logs
+# Logs & Temporary Files
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.log
+*.tmp
 
 # Operating System Files
 .DS_Store
