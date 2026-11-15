@@ -1,5 +1,5 @@
 # 🎬 SONICFRAME
-### "Motion2Stem" — Optical-Flow Driven Foley & Adaptive Score Engine
+### "SONICFRAME" — Optical-Flow Driven Foley & Adaptive Score Engine
 *Target Tracks: Soundscapes & Composition · Best Creative Artist Co-Pilot*  
 *Project of Team TetraByte*
 
