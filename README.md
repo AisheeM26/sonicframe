@@ -53,7 +53,7 @@ Indie 3D animators (Blender, Unreal Engine, Maya), motion graphic designers, and
 * **Monolithic Black-Box AI:** Commercial "prompt-to-audio" generators spit out monolithic, flat stereo files that ignore precise visual keyframes, lack individual stems, and cannot be tuned or edited.
 * **Heavy Cloud Roundtrips:** Uploading multi-gigabyte video renders to remote cloud servers creates severe privacy concerns, latency, and expensive GPU costs.
 
-### 1.2 The "Motion2Stem" Solution
+### 1.2 The "SONICFRAME" Solution
 > **Visual Motion Writes the Score.**
 
 SonicFrame replaces guesswork with **client-side pixel mathematics**. By computing dense optical flow directly in the browser via Web Workers and OffscreenCanvas, SonicFrame translates raw visual velocity, divergence (zoom/scale), and rotational curl into structured acoustic parameters.
