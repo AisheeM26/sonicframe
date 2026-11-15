@@ -5,7 +5,7 @@
 <h1 align="center">🎬 SONICFRAME</h1>
 
 <p align="center">
-  <strong>"Motion2Stem" — Optical-Flow Driven Foley & Adaptive Procedural Score Engine</strong><br>
+  <strong>"SONICFRAME" — Optical-Flow Driven Foley & Adaptive Procedural Score Engine</strong><br>
   <em>Turn silent animations into production-grade, frame-locked audio stems in real time directly inside your browser.</em>
 </p>
 
